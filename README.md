@@ -1,5 +1,5 @@
 # DSA0133-OOPS-C-
-Day 1
+DAY 1
 1.maximum of 3 numbers
 2.perfect numbers
 3.reverse of word
