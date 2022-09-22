@@ -16,7 +16,7 @@ int lcm(int m, int n) {
    int a;
    a = (m > n) ? m: n;
    while (true) {
-      if (a % m == 0 && a % n == 0)
+      if (a % m == 0 && a % n == 0)   //RAKESH 
          return a;
          ++a;
    }
