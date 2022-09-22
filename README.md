@@ -14,4 +14,9 @@ Day 1
 12.Alphabetical order
 13.N digit number
 14.Armstrong
-15.Encapsulation
+15.Encapsulation.
+
+
+DAY 2
+1.Area of circle , rect, square, triangle
+3.Swap function
