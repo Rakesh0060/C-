@@ -7,7 +7,7 @@ int main()
 	cin>> age;
 	if (age>=18)
 	{
-		cout<<"You are eligible for voting.";
+		cout<<"You are eligible for voting.";//RAKESH
 	}
 	else
 	{
