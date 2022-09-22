@@ -20,3 +20,5 @@ DAY 1
 DAY 2
 1.Area of circle , rect, square, triangle
 3.Swap function
+4.Eligible for vote or not 
+
