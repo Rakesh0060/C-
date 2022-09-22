@@ -1,42 +1,48 @@
-#include<iostream>
-using namespace std ;
+#include <windows.h>
+#include <iostream>
 
-inline int sum(int a,int b)
- {
-  return(a+b);
- }
-inline int sub(int a,int b)
- {
-  return(a-b);
- }
-inline int mul(int a,int b)
- {
-  return(a*b);
- }
-inline float div(float a,float b)
- {
-  return(a/b);
- }
+using namespace std;
+
+class employee
+{
+	int   emp_number;
+	char  emp_name[20];
+	char emp_dept_name[20];
+	char emp_designation[20];
+	public:
+
+		void get_emp_details();
+		void show_emp_details();
+};
+
+void employee :: get_emp_details()
+{
+	cout<<"\nEnter employee number: ";
+	cin>>emp_number;
+	cout<<"\nEnter employee name: ";
+	cin>>emp_name;
+	cout<<"\nEnter employee dept name: ";
+	cin>>emp_dept_name;
+	cout<<"\nEnter employee designation: ";
+	cin>>emp_designation;
+}
+void employee :: show_emp_details()
+{
+	cout<<"\n\n**** Details of  Employee ****";
+	cout<<"\nEmployee number       :  "<<emp_number;
+	cout<<"\nEmployee Name         :  "<<emp_name;
+	cout<<"\nEmployee dept name    :  "<<emp_dept_name;
+	cout<<"\nEmployee designation  :  "<<emp_designation;
+	cout<<"\n-------------------------------\n\n";
+}
+
 
 int main()
 {
- int x,y;
- char n;
- cout<<"Enter values to process \n X=";
- cin>>x;
- cout<<"\n Y=";
- cin>>y ;
- cout<<"Press '+' for Addition \nPress '-' for Substraction \nPress '*' for multiplication \nPress '/' for Division \n Choise Is :"; 
- cin>>n ;
- if(n=='+')
-   cout<<"Addition Is :"<<sum(x,y);
-  else if(n=='-')
-   cout<<"Substraction Is :"<<sub(x,y);
-  else if(n=='*')
-   cout<<"Multiplication Is :"<<mul(x,y);
-  else if(n=='/')
-   cout<<"Division Is :"<<div(x,y);
-  else
-   cout<<"Wrong Input";
- return 0;
+    employee emp;
+    
+    emp.get_emp_details();
+    emp.show_emp_details();
+
+    return 0;
 }
