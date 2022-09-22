@@ -16,5 +16,5 @@ if(temp==sum)
 cout<<"Armstrong Number."<<endl;    
 else    
 cout<<"Not Armstrong Number."<<endl;   
-return 0;  
+return 0;  //RAKESH
 }
