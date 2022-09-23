@@ -21,6 +21,7 @@ DAY 2
 1.Area of circle , rect, square, triangle
 2.Arithmetic operation
 3.Swap function
+4.array
 5.Employee class
 6.eligibility for vote
 7.Eligible for vote or not 
