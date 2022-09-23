@@ -25,4 +25,13 @@ DAY 2
 5.Employee class
 6.eligibility for vote
 7.Eligible for vote or not 
+8.coversion
+9.simple interest
+10.
+11.
+12.Marks of the student
+13.Reverse order
+14.
+15.Electricity Bill
+
 
