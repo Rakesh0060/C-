@@ -39,22 +39,20 @@ No of programmers completed = 13/15
 
 
 DAY 3
-No of programmers completed = 8/15
+No of programmers completed =10/12 
 1.Student Class
 2.Rectangle with two data members
 3.Piggi bank
 4.
-5.
+5.Print num
 6.integer and character
 7.
 8.Name,age,address of 10 students
 9.Graduate
 10.Bank balance
 11.Print number
-12.
-13.
-14.
-15.
+12.RBI Banks
+
 
 
 
