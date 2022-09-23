@@ -19,7 +19,7 @@ class Student {
 };
 
 int main() {
-    Student test_student("lokesh"); 
+    Student test_student("Rakesh"); 
     Student unknown_test_student;
     test_student.printName();
     unknown_test_student.printName();
