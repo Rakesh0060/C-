@@ -29,8 +29,8 @@ No of programmers completed = 13/15
 7.Eligible for vote or not 
 8.coversion
 9.simple interest
-10.cpp
-11.cpp
+10.Fibonacci series
+11.equivalent to binary
 12.Marks of the student
 13.Reverse order
 14.
@@ -43,10 +43,10 @@ No of programmers completed =12/12
 1.Student Class
 2.Rectangle with two data members
 3.Piggi bank
-4.cpp
+4.creating cpp
 5.Print num
 6.integer and character
-7.cpp
+7.square & rectangle
 8.Name,age,address of 10 students
 9.Graduate
 10.Bank balance
