@@ -1,7 +1,7 @@
 # DSA0133-OOPS-C-
 No of programmers completed = 15/15
 DAY 1
-1.maximum of 3 numbers
+1.maximum of  numbers
 2.perfect numbers
 3.reverse of word
 4.voting
@@ -29,8 +29,8 @@ No of programmers completed = 13/15
 7.Eligible for vote or not 
 8.coversion
 9.simple interest
-10.
-11.
+10.cpp
+11.cpp
 12.Marks of the student
 13.Reverse order
 14.
@@ -39,20 +39,38 @@ No of programmers completed = 13/15
 
 
 DAY 3
-No of programmers completed =10/12 
+No of programmers completed =12/12 
 1.Student Class
 2.Rectangle with two data members
 3.Piggi bank
-4.
+4.cpp
 5.Print num
 6.integer and character
-7.
+7.cpp
 8.Name,age,address of 10 students
 9.Graduate
 10.Bank balance
 11.Print number
 12.RBI Banks
 
+
+DAY 4
+No of programmers completed =8/8
+1.Single inheritance 
+2.Student with 3 classes
+3.Student Class
+4.Area of circle
+5.Sum of array
+6.Hybrid inheritance 
+7.Fruits
+8.marks of each student.cpp
+
+DAY5
+1.Mammals and blue whale
+2.Fruits mangoes and apples
+5.polygon
+6.RBI withs oops concept
+7.Bank rules with oops concept
 
 
 
